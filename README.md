@@ -1,5 +1,5 @@
 # Static webpage boilerplate
 
-webpack
-babel
+webpack</br>
+babel</br>
 SASS
