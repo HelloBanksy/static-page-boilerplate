@@ -1,1 +1,5 @@
-# static-page-boilerplate
+# Static webpage boilerplate
+
+webpack
+babel
+SASS
