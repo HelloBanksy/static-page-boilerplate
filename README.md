@@ -20,7 +20,7 @@ yarn start
 ```
 
 ## 🚀 Starting prod environment
-Build if located in <b>/dist</b> folder in root directory.
+Build is located in <b>/dist</b> folder in root directory.
 ```
 yarn build
 ```
