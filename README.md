@@ -1,2 +1,2 @@
 # Static webpage boilerplate
-Static webpage boilerplate. Using Webpack, Babel, <b>SCSS</b>.
+Static webpage boilerplate. Using <b>Webpack, Babel, SCSS</b>.
