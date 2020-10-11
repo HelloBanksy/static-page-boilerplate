@@ -1,5 +1,2 @@
 # Static webpage boilerplate
-
-webpack</br>
-babel</br>
-SASS
+Static webpage boilerplate. Using Webpack, Babel, <b>SCSS</b>.
